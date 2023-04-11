@@ -19,6 +19,7 @@ class HomeScreen extends StatelessWidget {
           IconButton(onPressed: (){}, icon: SvgPicture.asset("assets/icons/search.svg",color: kTextColor)),
           IconButton(onPressed: (){}, icon: SvgPicture.asset("assets/icons/cart.svg",color: kTextColor),),
           SizedBox(width: kDefaultPaddin/2,)
+          //test
         ],
       ),
 
