@@ -39,7 +39,14 @@ class BodyD extends StatelessWidget {
                           TextStyle(height: 1.5),),
                       ),
 
-                      CartCounter(),
+                      Row(
+
+                        children: [
+                          //CartCounter(p),
+
+
+                        ],
+                      ),
 
                       
                     ],
